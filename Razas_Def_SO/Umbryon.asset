@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d016722ef50577b418457efe8378daf0, type: 3}
+  m_Name: Umbryon
+  m_EditorClassIdentifier: 
+  nombreRaza: Umbryon
+  colorRepresentativo: {r: 0, g: 0, b: 0, a: 0}
+  aleloColorA: 0
+  aleloColorB: 0
+  pMutColor: 0.006
+  aleloPatronA: 0
+  aleloPatronB: 0
+  pMutPatron: 0.006
+  aleloPelajeA: 0
+  aleloPelajeB: 0
+  pMutPelaje: 0.01
+  aleloDietaA: 2
+  aleloDietaB: 2
+  probDieta:
+  - 0
+  - 0.02
+  - 0.96
+  - 0.02
+  - 0
+  aleloInteligenciaA: 1
+  aleloInteligenciaB: 3
+  probInteligencia:
+  - 0
+  - 0.065
+  - 0.9
+  - 0.035
+  - 0
+  criasMin: 4
+  criasMax: 6
+  vidaMin: 9
+  vidaMax: 11
+  alturaMachoMin: 95
+  alturaMachoMax: 105
+  alturaHembraMin: 75
+  alturaHembraMax: 85
+  masaMin: 0.38
+  masaMax: 0.42
+  RS_Puros:
+  - A0
+  - B1
+  - C2
+  - D3
+  - E4
+  - F5
+  - G6
+  - H7
+  - A1
+  - A1
+  GS_Base:
+  - A1
+  - A1
+  - A1
+  - A1
+  - A1
+  - A1
+  - A1
+  - A1
+  - A1
+  - A1

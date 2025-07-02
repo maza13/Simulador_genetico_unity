@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d016722ef50577b418457efe8378daf0, type: 3}
+  m_Name: Albarino
+  m_EditorClassIdentifier: 
+  nombreRaza: Albarino
+  colorRepresentativo: {r: 1, g: 1, b: 1, a: 0}
+  aleloColorA: 4
+  aleloColorB: 4
+  pMutColor: 0.007
+  aleloPatronA: 0
+  aleloPatronB: 0
+  pMutPatron: 0.002
+  aleloPelajeA: 1
+  aleloPelajeB: 1
+  pMutPelaje: 0.002
+  aleloDietaA: 3
+  aleloDietaB: 3
+  probDieta:
+  - 0
+  - 0
+  - 0.03
+  - 0.95
+  - 0.02
+  aleloInteligenciaA: 2
+  aleloInteligenciaB: 4
+  probInteligencia:
+  - 0
+  - 0
+  - 0.065
+  - 0.9
+  - 0.035
+  criasMin: 3
+  criasMax: 5
+  vidaMin: 11
+  vidaMax: 13
+  alturaMachoMin: 120
+  alturaMachoMax: 130
+  alturaHembraMin: 95
+  alturaHembraMax: 105
+  masaMin: 0.4
+  masaMax: 0.45
+  RS_Puros:
+  - A0
+  - B1
+  - C2
+  - D3
+  - E4
+  - F5
+  - G6
+  - H7
+  - B1
+  - B1
+  GS_Base:
+  - A1
+  - A1
+  - A1
+  - A1
+  - A1
+  - A1
+  - A1
+  - A1
+  - A1
+  - A1

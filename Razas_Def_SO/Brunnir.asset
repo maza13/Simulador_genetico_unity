@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d016722ef50577b418457efe8378daf0, type: 3}
+  m_Name: Brunnir
+  m_EditorClassIdentifier: 
+  nombreRaza: Brunnir
+  colorRepresentativo: {r: 0.46226418, g: 0.2530251, b: 0.13737096, a: 0}
+  aleloColorA: 1
+  aleloColorB: 1
+  pMutColor: 0.006
+  aleloPatronA: 1
+  aleloPatronB: 1
+  pMutPatron: 0.006
+  aleloPelajeA: 0
+  aleloPelajeB: 0
+  pMutPelaje: 0.006
+  aleloDietaA: 2
+  aleloDietaB: 2
+  probDieta:
+  - 0
+  - 0.05
+  - 0.9
+  - 0.05
+  - 0
+  aleloInteligenciaA: 0
+  aleloInteligenciaB: 2
+  probInteligencia:
+  - 0.06
+  - 0.9
+  - 0.04
+  - 0
+  - 0
+  criasMin: 5
+  criasMax: 7
+  vidaMin: 7
+  vidaMax: 9
+  alturaMachoMin: 75
+  alturaMachoMax: 85
+  alturaHembraMin: 60
+  alturaHembraMax: 70
+  masaMin: 0.35
+  masaMax: 0.4
+  RS_Puros:
+  - A0
+  - B1
+  - C2
+  - D3
+  - E4
+  - F5
+  - G6
+  - H7
+  - C1
+  - C1
+  GS_Base:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 

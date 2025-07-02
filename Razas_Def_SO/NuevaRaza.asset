@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d016722ef50577b418457efe8378daf0, type: 3}
+  m_Name: NuevaRaza
+  m_EditorClassIdentifier: 
+  nombreRaza: 
+  colorRepresentativo: {r: 0, g: 0, b: 0, a: 0}
+  aleloColorA: 0
+  aleloColorB: 0
+  aleloPatronA: 0
+  aleloPatronB: 0
+  aleloPelajeA: 0
+  aleloPelajeB: 0
+  aleloDietaA: 0
+  aleloDietaB: 0
+  aleloInteligenciaA: 0
+  aleloInteligenciaB: 0
+  criasMin: 1
+  criasMax: 4
+  vidaMin: 5
+  vidaMax: 8
+  alturaMachoMin: 60
+  alturaMachoMax: 60
+  alturaHembraMin: 50
+  alturaHembraMax: 60
+  masaMin: 0.3
+  masaMax: 0.3
+  RS_Puros:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  GS_Base:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
